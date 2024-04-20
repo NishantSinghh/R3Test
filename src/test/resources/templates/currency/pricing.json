@@ -1,0 +1,8 @@
+{
+  "endpoint": "/v6/latest/USD",
+  "methods": "GET",
+  "headers": {
+    "Content-Type": "application/json"
+  }
+}
+
